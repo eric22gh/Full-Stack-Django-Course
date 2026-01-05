@@ -74,3 +74,18 @@ Months 3-10  → Django + React
 Months 11-14 → DevOps + AWS
 Months 15-22 → Final Projects
 Months 23-24 → Job Search
+
+---
+
+📂 Structure
+course/
+├── module-0-fundamentals/
+├── module-1-django/
+├── module-2-databases/
+├── module-3-drf/
+├── module-4-react/
+├── module-5-devops/
+├── module-6-infrastructure/
+├── project-1-cost-optimizer/
+├── project-2-securevault/
+└── module-7-career-prep/
