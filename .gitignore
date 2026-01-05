@@ -1,0 +1,98 @@
+# 1️⃣ Seguridad Secrets / Env
+.env
+.env.*
+*.env
+.env.local
+.env.dev
+.env.prod
+
+# Django secrets
+local_settings.py
+settings_local.py
+
+# Certificates / keys
+*.pem
+*.key
+*.crt
+*.p12
+
+# AWS / Cloud credentials
+.aws/
+credentials
+
+# 🐍 2️⃣ Python / Django / FastAPI
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Python tools
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# Django
+db.sqlite3
+media/
+staticfiles/
+
+# ⚙️ 3️⃣ Logs y runtime
+# Logs
+*.log
+logs/
+log/
+
+# Runtime
+*.pid
+*.sock
+
+# 🐳 4️⃣ Docker / DevOps
+# Docker
+*.tar
+docker-data/
+docker-volumes/
+
+# 🌐 5️⃣ Frontend (React / Vite / Next básico)
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Builds
+dist/
+build/
+
+# 🧪 6️⃣ Testing / Coverage
+# Test outputs
+test-results/
+reports/
+
+# 🖥️ 7️⃣ IDEs y SO (limpieza)
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 🧠 8️⃣ Terraform / I
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+terraform.tfvars
+
+
+
+
+
