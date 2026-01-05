@@ -75,6 +75,7 @@ Months 11-14 → DevOps + AWS
 Months 15-22 → Final Projects
 Months 23-24 → Job Search
 
+---
 
 📂 Structure
 course/
