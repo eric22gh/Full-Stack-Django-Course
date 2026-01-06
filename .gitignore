@@ -30,6 +30,7 @@ __pycache__/
 venv/
 env/
 .venv/
+module-0_env/
 
 # Python tools
 .pytest_cache/
@@ -91,6 +92,9 @@ Thumbs.db
 *.tfstate
 *.tfstate.*
 terraform.tfvars
+
+# Utilidades
+requirements.txt
 
 
 
