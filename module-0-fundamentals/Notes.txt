@@ -1,0 +1,39 @@
+fullstack-master-course/
+├── venv-modulo0/              # Entorno virtual (no se sube a Git)
+├── requirements.txt            # Dependencias
+├── notas.txt
+├── .gitignore                 # Archivos a ignorar
+├── README.md                  # Documentación del proyecto
+├── modulo0/
+│   ├── dia1/
+│   │   ├── theme_of_day.py
+│   │   └── tests/
+│   ├── dia2/
+│   └── module_proyecto/         # CLI Resource Manager
+└── ...
+
+
+# Crea el entorno virtual
+python3 -m venv module-0_env
+
+# Activa el entorno virtual
+.\module-0_env\Scripts\Activate.ps1  # PowerShell
+
+# Verifica que estés en el entorno correcto
+# Python ya está instalado; no necesitas instalarlo con pip
+python --version  # Debería ser 3.11+
+
+# Actualiza pip a la última versión
+pip install --upgrade pip
+
+# Instrucciones para instalar las dependencias en requirements.txt
+# Asegúrate de estar en el entorno virtual activado
+
+# Instala todas las dependencias
+pip install -r requirements.txt
+
+# Verifica la instalación
+pip list
+
+
+# NOTAS DE EL CURSO FULL STACK DJANGO - MÓDULO 0 FUNDAMENTALS
