@@ -18,6 +18,8 @@ python3 -m venv module-0_env
 
 # Activa el entorno virtual
 .\module-0_env\Scripts\Activate.ps1  # PowerShell
+# crear una carpeta en PowerShell mkdir nombre_carpeta
+# crear un archivo en PowerShell New-Item -Path "name.py" -ItemType File
 
 # Verifica que estés en el entorno correcto
 # Python ya está instalado; no necesitas instalarlo con pip
