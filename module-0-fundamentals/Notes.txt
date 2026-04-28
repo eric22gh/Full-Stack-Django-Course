@@ -33,7 +33,6 @@ python3 -m venv module-0_env
 # Verifica que estés en el entorno correcto
 # Python ya está instalado; no necesitas instalarlo con pip
 python --version  # Debería ser 3.11+
-
 # Actualiza pip a la última versión
 pip install --upgrade pip
 
