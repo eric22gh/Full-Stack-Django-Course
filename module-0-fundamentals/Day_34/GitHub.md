@@ -53,7 +53,7 @@ git clone git@github.com:OtroUsuario/su-proyecto.git
 # 6. aplica tus commits encima de los que ya existen en el remoto, manteniendo un historial más limpio.
 git pull origin main --rebase
 
-#7. despues de hacer el rebase hay que editar archivos en conflicto
+# 7. despues de hacer el rebase hay que editar archivos en conflicto
 git add .
 git rebase --continue
 
