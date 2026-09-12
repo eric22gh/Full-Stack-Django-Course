@@ -31,6 +31,7 @@ venv/
 env/
 .venv/
 module-0_env/
+env-module-0/
 
 # Python tools
 .pytest_cache/
