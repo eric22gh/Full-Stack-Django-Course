@@ -40,7 +40,7 @@ pip install --upgrade pip
 # Asegúrate de estar en el entorno virtual activado
 
 # Instala todas las dependencias
-pip install -r requirements.txt
+
 
 # Verifica la instalación
 pip list
